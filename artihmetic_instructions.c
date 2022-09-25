@@ -11,7 +11,7 @@ int main() {
     printf("When a is divided by b, it leaves remainder %d \n", a % b);
     
     // In C, there is no operator to do exponentiation
-    // printf("5 to the power of 2 is %f", 5^2) this won't work as '^' is XOR operator in C
+    // ! printf("5 to the power of 2 is %f", 5^2) this won't work as '^' is XOR operator in C
 
     // However, we have a method to do exponentiation that is pow() function
     // NOTE : It takes double as parameter and returns double
